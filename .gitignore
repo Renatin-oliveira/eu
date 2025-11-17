@@ -1,0 +1,34 @@
+# Build folders
+out/
+build/
+
+# Eclipse / IntelliJ
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Data files (persisted orders)
+data/
+
+# Compiled Java classes
+*.class
+
+# Temporary files
+*.tmp
+
+# Maven
+target/
+
+# Gradle
+.gradle/
+
+# VS Code
+.vscode/
